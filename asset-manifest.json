@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/friendscontactsearch/static/css/main.3c9fc640.chunk.css",
+    "main.js": "/friendscontactsearch/static/js/main.fbd7fddf.chunk.js",
+    "main.js.map": "/friendscontactsearch/static/js/main.fbd7fddf.chunk.js.map",
+    "runtime-main.js": "/friendscontactsearch/static/js/runtime-main.dc25eed2.js",
+    "runtime-main.js.map": "/friendscontactsearch/static/js/runtime-main.dc25eed2.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/friendscontactsearch/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.faca7ac6.chunk.js": "/friendscontactsearch/static/js/2.faca7ac6.chunk.js",
+    "static/js/2.faca7ac6.chunk.js.map": "/friendscontactsearch/static/js/2.faca7ac6.chunk.js.map",
+    "index.html": "/friendscontactsearch/index.html",
+    "precache-manifest.b9b6fc3a056c291fca71008ddd436185.js": "/friendscontactsearch/precache-manifest.b9b6fc3a056c291fca71008ddd436185.js",
+    "service-worker.js": "/friendscontactsearch/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/friendscontactsearch/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3c9fc640.chunk.css.map": "/friendscontactsearch/static/css/main.3c9fc640.chunk.css.map",
+    "static/js/2.faca7ac6.chunk.js.LICENSE.txt": "/friendscontactsearch/static/js/2.faca7ac6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc25eed2.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.faca7ac6.chunk.js",
+    "static/css/main.3c9fc640.chunk.css",
+    "static/js/main.fbd7fddf.chunk.js"
+  ]
+}
